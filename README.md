@@ -1,23 +1,46 @@
 <div align="center">
-  <h1>👋 Hey there, I'm ItsKuf!</h1>
-  <p>FiveM Developer | Web Developer | 3D Modeler | UEFN GAME DEV</p>
   
-  <!-- Typing Animation -->
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Condensed&weight=750&size=30&duration=5000&pause=3000&color=1890ff&center=true&vCenter=true&width=550&lines=Welcome+to+my+GitHub+Profile!" alt="Typing SVG" /></a>
+  ![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=180&section=header&text=ItsKuf&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=35)
+
 </div>
 
-## GitHub Stats
+<div align="left">
+  
+  ### About
+  > FiveM Developer crafting unique server experiences  
+  > Web Developer focusing on modern solutions  
+  > Professional 3D Modeler  
+  > UEFN Game Developer
+  
+</div>
 
-<p align="center">
-  <img align="center" height="200px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ItsKuf&show_icons=true&count_private=true&include_all_commits=true&line_height=25&theme=dark" alt="ItsKuf's GitHub Stats" />
-</p>
+<br>
 
-## Connect with Me
-
-If you would like to ask any questions or just talk - Feel free to reach out to me on [Discord](k54).
-
+<details>
+<summary>GitHub Stats</summary>
 <div align="center">
-  <a href="https://github.com/ItsKuf">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=ItsKuf&theme=dark" />
-  </a>
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ItsKuf&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ItsKuf&theme=tokyonight&hide_border=true"/>
 </div>
+</details>
+
+<details>
+<summary>Current Projects</summary>
+<div align="left">
+  
+  - 🎮 Custom FiveM server development
+  - 💻 Web applications & interfaces
+  - 🎨 3D modeling & asset creation
+  - 🎯 UEFN game development
+  
+</div>
+</details>
+
+<div align="left">
+
+### Connect
+[![Discord](https://img.shields.io/badge/Discord-k54-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.com/)
+
+</div>
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=80&section=footer)
