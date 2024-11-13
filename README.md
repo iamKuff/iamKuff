@@ -1,6 +1,6 @@
 <div align="center">
   
-  ![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=180&section=header&text=ItsKuf&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=35)
+  ![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=180&section=header&text=iamKuff&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=35)
 
 </div>
 
