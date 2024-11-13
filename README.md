@@ -20,14 +20,6 @@
 <br>
 
 <details>
-<summary>GitHub Stats</summary>
-<div align="center">
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ItsKuf&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ItsKuf&theme=tokyonight&hide_border=true"/>
-</div>
-</details>
-
-<details>
 <summary>Current Projects</summary>
 <div align="left">
   
