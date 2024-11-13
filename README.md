@@ -7,9 +7,9 @@
 <div align="left">
   
   ### About
-  > FiveM Developer crafting unique server experiences  
-  > Web Developer focusing on modern solutions  
-  > Professional 3D Modeler  
+  > FiveM Developer and Ex Server Owner
+  > Upcoming Web Developer
+  > 3D Modeler
   > UEFN Game Developer
   
 </div>
@@ -28,10 +28,7 @@
 <summary>Current Projects</summary>
 <div align="left">
   
-  - 🎮 Custom FiveM server development
-  - 💻 Web applications & interfaces
-  - 🎨 3D modeling & asset creation
-  - 🎯 UEFN game development
+  - BIG THINGS ARE COMING SOON...
   
 </div>
 </details>
