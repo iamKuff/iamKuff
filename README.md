@@ -8,8 +8,11 @@
   
   ### About
   > FiveM Developer and Ex Server Owner
+
   > Upcoming Web Developer
+ 
   > 3D Modeler
+ 
   > UEFN Game Developer
   
 </div>
