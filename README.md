@@ -12,7 +12,7 @@
 
 ### about
 
-i'm kuff. i build cool stuff on the internet.
+i'm kuff. i build random stuff on the internet mostly vibe coded or for shool projects
 
 currently focused on:
 - shipping small products
