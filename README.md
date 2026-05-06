@@ -3,11 +3,6 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=2200&pause=900&color=FFFFFF&center=true&vCenter=true&width=700&lines=shipping+small+products;clean+ui+%E2%80%A2+fast+ux;learning+in+public" alt="typing intro" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/vibe-nonchalant-111111?style=for-the-badge" alt="vibe badge" />
   <img src="https://img.shields.io/badge/building-everyday-1b1b1b?style=for-the-badge" alt="building badge" />
   <img src="https://img.shields.io/badge/status-in%20the%20lab-262626?style=for-the-badge" alt="status badge" />
 </p>
